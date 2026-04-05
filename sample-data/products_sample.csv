@@ -1,0 +1,6 @@
+productId,productName,category,price,stockQuantity
+1001,Laptop,Electronics,850.50,12
+1002,Phone,Electronics,450.00,25
+1003,Keyboard,Accessories,35.99,50
+1004,Mouse,Accessories,20.49,60
+1005,Monitor,Computers,199.99,15
